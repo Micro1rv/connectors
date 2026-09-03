@@ -1,4 +1,5 @@
-# Basic Generic Information
+# Issue #1
 ## This README will be updated for each commit for the purpose of seeding a default environment for testing. 
 
-#
+# Issue #2
+## UI Bug Fixed in the analytics dashboard
