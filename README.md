@@ -18,3 +18,7 @@
 
 # Issue #7
 ## Added PDF Export
+
+# Issue #8 
+## Updated Admin Permissions
+
