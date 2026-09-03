@@ -22,3 +22,5 @@
 # Issue #8 
 ## Updated Admin Permissions
 
+# Issue #10
+# In the process of adding alerting for high priority tickets
