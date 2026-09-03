@@ -3,3 +3,6 @@
 
 # Issue #2
 ## UI Bug Fixed in the analytics dashboard
+
+# Issue #3
+## Added CSV Export
