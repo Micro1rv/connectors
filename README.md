@@ -9,3 +9,5 @@
 
 # Issue #4
 ## Added search feature to analytics dashboard
+
+# Issue #5
