@@ -17,3 +17,4 @@
 ## Improved load time to under 1 second
 
 # Issue #7
+## Added PDF Export
