@@ -14,4 +14,4 @@
 ## Fixed the misclassification errors by adding error handling
 
 # Issue #6
-## 
+## Improved load time to under 1 second
