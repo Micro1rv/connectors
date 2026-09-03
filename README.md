@@ -8,3 +8,4 @@
 ## Added CSV Export
 
 # Issue #4
+## Added search feature to analytics dashboard
