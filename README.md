@@ -15,3 +15,5 @@
 
 # Issue #6
 ## Improved load time to under 1 second
+
+# Issue #7
